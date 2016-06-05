@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+}
+.container-fluid {
+	font-size: 175%;
+	margin: 15px;
+	padding: 15px;
+
+	}	
+p {
+	background-color: #00fafa;
+	width: 90%;
+	height: 200px;
+	border: 2.5px solid black;
+	padding-top: 40px;
+	padding: auto;
+	overflow: auto;
+}
+.d1 {
+	background-color: #ffffff;
+	border: 2px solid black;
+	float: right;
+	position: relative;
+	top: -40px;
+	padding: 3px;
+
+@media (min-width: 768px @screen-md-min) and (max-width: 991px @screen-md-max) {
+	
+}
